@@ -11,6 +11,6 @@
     "href": "index.html",
     "title": "Epidemiology with R",
     "section": "",
-    "text": "Measures of disease occurrence\n\n\nPrevalence data\n\n\nRegression models"
+    "text": "Introduction\nPackages used\n\npacman::p_load(Epi, \n               tidyverse)\n\n\n\nMeasures of disease occurrence\n\n\nPrevalence data\n\n\nRegression models"
   }
 ]
