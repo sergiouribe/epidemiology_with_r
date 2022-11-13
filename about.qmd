@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+Notes from the Cartens' book Epidemiology with R, Oxford University Press, 2021

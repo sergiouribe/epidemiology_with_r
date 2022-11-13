@@ -1,0 +1,19 @@
+---
+title: "Epidemiology with R"
+author: "Sergio Uribe"
+---
+
+# Introduction
+
+Packages used
+
+```{r}
+pacman::p_load(Epi, 
+               tidyverse)
+```
+
+# Measures of disease occurrence
+
+# Prevalence data
+
+# Regression models
