@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Notes from the Cartens’ book Epidemiology with R, Oxford University Press, 2021"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Epidemiology with R",
+    "section": "",
+    "text": "Measures of disease occurrence\n\n\nPrevalence data\n\n\nRegression models"
+  }
+]

@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Epidemiology with R"
@@ -7,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+#      - about.qmd
 
 format:
   html:
