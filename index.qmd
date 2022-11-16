@@ -3,7 +3,7 @@ title: "Epidemiology with R"
 author: "Sergio Uribe"
 ---
 
-Notes from Cartens' Epidemiology with R book, Oxford University Press, 2021
+Notes from Carstensen's Epidemiology with R book, Oxford University Press, 2021
 
 # Introduction
 
