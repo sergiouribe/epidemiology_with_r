@@ -11,6 +11,6 @@
     "href": "index.html",
     "title": "Epidemiology with R",
     "section": "",
-    "text": "Introduction\nPackages used\n\npacman::p_load(Epi, \n               tidyverse)\n\nInstalling package into '/home/sergiouribe/R/x86_64-pc-linux-gnu-library/4.1'\n(as 'lib' is unspecified)\n\n\nalso installing the dependencies 'Rcpp', 'RcppArmadillo', 'cmprsk', 'etm', 'plyr', 'numDeriv', 'zoo'\n\n\n\nEpi installed\n\n\n\n\nMeasures of disease occurrence\n\n\nPrevalence data\n\n\nRegression models"
+    "text": "Introduction\nPackages used\n\npacman::p_load(Epi, \n               tidyverse)\n\n\n\nMeasures of disease occurrence\n\n\nPrevalence data\n\n\nRegression models"
   }
 ]
