@@ -1,6 +1,7 @@
 ---
 title: "Epidemiology with R"
 author: "Sergio Uribe"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 ---
 
 Notes from Carstensen's Epidemiology with R book, Oxford University Press, 2021
